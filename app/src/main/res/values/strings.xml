@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BookWorm</string>
+    <string name="instruction">Enter the name of author,book etc.</string>
+    <string name="type">Type here</string>
+    <string name="Search">Search </string>
+    <string name="Loading">Loading</string>
+    <string name="netOff">Please enter a search term</string>
+    <string name="netOff1">Please check yout internet connection and try again</string>
+</resources>
